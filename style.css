@@ -300,5 +300,25 @@ text-align: center;
     font-weight: bold;
 }
 footer{
-    margin-top: 130px;
+    margin-top: 100px;
+    background-color: #001931;
+    padding: 130px 0;
 }
+#id{
+    display: flex;
+    justify-content: space-between;
+}
+.social-links{
+    gap:10px;
+    align-items: centere;
+    margin-left: 1550px;
+    font-size: large;
+    color: #F7F6F2;}
+    .social-links img{
+        width: 20px;
+        height: 20px;
+    }
+    #kamal{
+        width: 30px;
+        height: 30px;
+    }
