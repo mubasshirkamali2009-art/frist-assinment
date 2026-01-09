@@ -299,3 +299,11 @@ text-align: center;
 .think-heading h1{
     font-weight: bold;
 }
+.footer-nav{
+    display: flex;
+    justify-content: space-between;
+}
+.links-card ul li a{
+    display: flex;
+    
+}
