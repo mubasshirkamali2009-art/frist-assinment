@@ -47,7 +47,7 @@ nav ul li a{
     
 }
 #hero-banner{
-    background-image:url(assets/hero-bg.png) ;
+    background-image:url(./assets/hero-bg.png) ;
    max-height: 700px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -362,7 +362,7 @@ width: 1360px;
 margin: 0 auto;}
    #ft{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 align-items: center;
 padding-bottom: 30px;
 margin: 0 auto;
