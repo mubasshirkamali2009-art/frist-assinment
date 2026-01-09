@@ -120,6 +120,7 @@ margin: 0 auto;
         background-color:#003b16;}
 .start:hover{
      background-color:#32c54f4f;}
+     .start2:hover{background-color:#005812}
 
 .see{
    border: none;
@@ -242,4 +243,59 @@ border-radius: 20px;
     width: 20px;
     height: 20px;
 
+}
+.imgall{
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 150px;
+    /* align-items: center;
+    margin: 0 auto;
+    margin-top: 10px; */
+}
+.think-box {
+    display: flex;
+justify-content: space-between;
+margin: 0 auto;
+}
+.think-box .think-card{
+    width: 300px;
+    height: 350px;
+  text-align: center;
+border: none;
+border-radius: 20px;
+  gap: 10px;
+   box-shadow:0 4px 40px 0 #00000042;
+ padding-top: 30px;
+}
+#think{
+    width: 1360px;
+    height: 700px;
+    padding: 250px;
+    background-color: #F7F6F2;
+}
+.start2{
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 7px;
+font-size: 18px;
+width: 255px;
+background-color: #24d66e;
+margin: 0 auto;
+  cursor: pointer;
+  border-radius: 100px;
+padding: 10px;
+color: #FFFFFF;
+margin-bottom: 20px;
+
+}
+.think-heading{
+    text-items: center;
+    
+margin: 0 auto;
+text-align: center;
+/* border: 2px solid red; */
+}
+.think-heading h1{
+    font-weight: bold;
 }
