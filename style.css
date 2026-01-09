@@ -318,16 +318,19 @@ footer{
 #id{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 .social-links{
     gap:10px;
     align-items: centere;
     margin-left: 1550px;
     font-size: large;
+     align-items: center;
     color: #F7F6F2;}
     .social-links img{
         width: 20px;
         height: 20px;
+
     }
     #kamal{
         width: 30px;
@@ -348,3 +351,24 @@ footer{
    .fa-x-twitter , .fa-linkedin , .fa-facebook{
     color: #F7F6F2;
    }
+   #ftdav{
+  padding-top: 50px;
+  margin-top: 50px;
+text-align: center;
+color:#FAFAFA ;
+   }
+   hr{ color: #FAFAFA;
+width: 1360px;
+margin: 0 auto;}
+   #ft{
+    display: flex;
+    justify-content: space-between;
+align-items: center;
+padding-bottom: 30px;
+margin: 0 auto;
+}
+.ftdav p{
+color: FAFAFA;
+text-align: center;
+margin: 0 auto;
+}
